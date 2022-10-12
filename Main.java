@@ -86,7 +86,7 @@ public class Main {
             }
             for(int i=1; i<=3; i++){
                 for(int j=1; j<=3; j++) {
-                    System.out.println(array[i][j]+"/t");
+                    System.out.print(array[i][j]);
                 }
                 System.out.println();
             }
